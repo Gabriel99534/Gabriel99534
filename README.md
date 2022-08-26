@@ -1,4 +1,4 @@
-👋 Hello! Welcome to my Github profile.
+👋 Hi! Welcome to my Github profile.
 
 - 💻Student of Systems Analysis and Development.
 - 👀 I’m interested in ...
